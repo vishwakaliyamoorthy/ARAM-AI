@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-pinecone
+langchain-huggingface
+langchain-groq
+pinecone
+python-dotenv
+pypdf
+fastapi
+sentence-transformers
